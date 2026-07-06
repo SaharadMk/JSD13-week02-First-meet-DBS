@@ -4,4 +4,4 @@ use("sample_mflix");
 //db.movies.findOne({ type: "movie", rated: "TV-G" });
 
 //find how many movie are there type movie and rated "TV-G"
-db.movies.find({ type: "movie", rated: "TV-G" }).count();
+//db.movies.find({ type: "movie", rated: "TV-G" }).count();
