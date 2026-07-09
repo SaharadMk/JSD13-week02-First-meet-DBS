@@ -1,0 +1,166 @@
+[
+  {
+    "orders_id": "6875f2a8d1c4a6b3e91f4001",
+    "customer": {
+      "user_id": "1",
+      "fullname": "สมชาย ใจดี",
+      "email": "somchai@email.com",
+      "phone": "0812345678"
+    },
+    "shipping_address": {
+      "label": "บ้าน",
+      "address_line": "99/12",
+      "street": "ถนนสุขุมวิท",
+      "district": "คลองเตย",
+      "province": "กรุงเทพมหานคร",
+      "postal_code": "10110"
+    },
+    "order_date": "2026-07-01T00:00:00Z",
+    "status": "ชำระเงินแล้ว",
+    "total_price": 2150,
+    "items": [
+      {
+        "product": {
+          "product_id": "686d00000000000000000004",
+          "name": "ทิวลิป"
+        },
+        "quantity": 2,
+        "price": 850,
+        "subtotal": 1700
+      },
+      {
+        "product": {
+          "product_id": "686d00000000000000000002",
+          "name": "ทานตะวัน"
+        },
+        "quantity": 1,
+        "price": 450,
+        "subtotal": 450
+      }
+    ]
+  },
+  {
+    "orders_id": "6875f2a8d1c4a6b3e91f4002",
+    "customer": {
+      "user_id": "2",
+      "fullname": "สมหญิง สุขใจ",
+      "email": "somying@email.com",
+      "phone": "0823456789"
+    },
+    "shipping_address": {
+      "label": "บ้าน",
+      "address_line": "45/7",
+      "street": "ถนนนิมมานเหมินท์",
+      "district": "เมืองเชียงใหม่",
+      "province": "เชียงใหม่",
+      "postal_code": "50200"
+    },
+    "order_date": "2026-07-02T00:00:00Z",
+    "status": "รอชำระเงิน",
+    "total_price": 599,
+    "items": [
+      {
+        "product": {
+          "product_id": "686d00000000000000000001",
+          "name": "กุหลาบแดง"
+        },
+        "quantity": 1,
+        "price": 599,
+        "subtotal": 599
+      }
+    ]
+  },
+  {
+    "orders_id": "6875f2a8d1c4a6b3e91f4003",
+    "customer": {
+      "user_id": "3",
+      "fullname": "อนันต์ บุญมี",
+      "email": "anan@email.com",
+      "phone": "0834567890"
+    },
+    "shipping_address": {
+      "label": "บ้าน",
+      "address_line": "123",
+      "street": "ถนนมิตรภาพ",
+      "district": "เมืองขอนแก่น",
+      "province": "ขอนแก่น",
+      "postal_code": "40000"
+    },
+    "order_date": "2026-07-03T00:00:00Z",
+    "status": "กำลังจัดส่ง",
+    "total_price": 1050,
+    "items": [
+      {
+        "product": {
+          "product_id": "686d00000000000000000005",
+          "name": "เดซี่"
+        },
+        "quantity": 3,
+        "price": 350,
+        "subtotal": 1050
+      }
+    ]
+  },
+  {
+    "orders_id": "6875f2a8d1c4a6b3e91f4004",
+    "customer": {
+      "user_id": "4",
+      "fullname": "วิภา แสงทอง",
+      "email": "wipa@email.com",
+      "phone": "0845678901"
+    },
+    "shipping_address": {
+      "label": "บ้าน",
+      "address_line": "88/9",
+      "street": "ถนนเทพกระษัตรี",
+      "district": "เมืองภูเก็ต",
+      "province": "ภูเก็ต",
+      "postal_code": "83000"
+    },
+    "order_date": "2026-07-04T00:00:00Z",
+    "status": "จัดส่งแล้ว",
+    "total_price": 850,
+    "items": [
+      {
+        "product": {
+          "product_id": "686d00000000000000000004",
+          "name": "ทิวลิป",
+        },
+        "quantity": 1,
+        "price": 850,
+        "subtotal": 850
+      }
+    ]
+  },
+  {
+    "orders_id": "6875f2a8d1c4a6b3e91f4005",
+    "customer": {
+      "user_id": "5",
+      "fullname": "ธนพล รุ่งเรือง",
+      "email": "tanapon@email.com",
+      "phone": "0856789012"
+    },
+    "shipping_address": {
+      "label": "บ้าน",
+      "address_line": "77/15",
+      "street": "ถนนสุขุมวิท",
+      "district": "เมืองชลบุรี",
+      "province": "ชลบุรี",
+      "postal_code": "20000"
+    },
+    "order_date": "2026-07-05T00:00:00Z",
+    "status": "ชำระเงินแล้ว",
+    "total_price": 690,
+    "items": [
+      {
+        "product": {
+          "product_id": "686d00000000000000000003",
+          "name": "ลิลลี่ขาว"
+        },
+        "quantity": 1,
+        "price": 690,
+        "subtotal": 690
+      }
+    ]
+  }
+]
